@@ -1,3 +1,3 @@
 # sahajnew
 comprtive first repository
-author-hruthick
+author-hruthick.P
